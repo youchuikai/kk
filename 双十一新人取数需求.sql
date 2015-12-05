@@ -1,3 +1,4 @@
+-- 第一次使用github
  -- 活动数据
  select a.date,
         a.terminal_id,
